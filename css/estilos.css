@@ -1,0 +1,23 @@
+p {
+    font-family: Arial;
+}
+
+body {
+    background-color:white
+    color: black;
+    font-family:Arial;
+    margin:0 2px 0 0;
+    border:10px solid;
+}
+
+h1,h2 {
+    color:blue;
+    background-color:white;
+}
+<nav class="menu">
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Sobre nosotros</a></li>
+    <li><a href="#">Contacto</a></li>
+  </ul>
+</nav>
